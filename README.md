@@ -189,3 +189,6 @@ Examples of good bugs
 * https://fin1te.net/articles/uber-turning-self-xss-into-good-xss/
 * http://blog.portswigger.net/2016/04/adapting-angularjs-payloads-to-exploit.html
 * http://blog.orange.tw/2016/04/bug-bounty-uber-ubercom-remote-code_7.html
+
+-----
+*Psst, this is a [Github repo! Wondering if there was a recent rule change? Click here!](https://github.com/uber/Bug-Bounty-Page)*

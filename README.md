@@ -116,7 +116,7 @@ The following are  vulnerabilities which Uber does not consider severe enough fo
 * Open ports without an accompanying proof-of-concept demonstrating vulnerability
 * Open Redirect Vulnerabilities
 * Publicly accessible login panels
-* Recently disclosed 0day vulnerabilities. We need time to patch our systems just like everyone else - please give us one week before reporting these types of issues.
+* Recently disclosed 0day vulnerabilities. We need time to patch our systems just like everyone else - please give us two week before reporting these types of issues.
 
 
 Things you should expect to recieve low to no bounty for

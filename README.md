@@ -95,8 +95,9 @@ What type of vulnerabilities is Uber NOT looking for?
 ===
 The following are  vulnerabilities which Uber does not consider severe enough for a reward:
 
-* Best practices concerns. 
-* Highly speculative reports about theoretical damage. Be concrete. 
+* Submissions on the S3 bucket `uber`, **we do not own this bucket!**.
+* Best practices concerns.
+* Highly speculative reports about theoretical damage. Be concrete.
 * Self-XSS that can not be used to exploit other users (this includes having a user paste JavaScript into the browser console)
 * Vulnerabilities as reported by automated tools without additional analysis as to how they're an issue
 * Denial of Service Attacks

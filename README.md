@@ -118,6 +118,7 @@ The following are  vulnerabilities which Uber does not consider severe enough fo
 * Open Redirect Vulnerabilities
 * Publicly accessible login panels
 * Recently disclosed 0day vulnerabilities. We need time to patch our systems just like everyone else - please give us two weeks before reporting these types of issues.
+* Entering the Uber offices, throwing crisps everywhere, unleashing a bunch of hungry racoons, and hijacking an abandoned terminal on an unlocked workstation while staff are distracted.
 
 
 Things you should expect to recieve low to no bounty for

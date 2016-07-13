@@ -28,6 +28,7 @@ We are interested in any vulnerability that could negatively affect the security
 * Open redirects. 99% of open redirects have low security impact. For the rare cases where the impact is higher, e.g., stealing oauth tokens, we do still want to hear about them.
 * Publicly accessible login panels - These generally have low security impact and are in software that Uber runs but doesn’t control.
 * Reports that state that software is out of date/vulnerable without a proof of concept.
+* Host header issues without an accompanying proof-of-concept demonstrating vulnerability.
 * XSS issues that affect only outdated browsers.
 * Stack traces that disclose information.
 * CSV injection. Please see [this article](https://sites.google.com/site/bughunteruniversity/nonvuln/csv-excel-formula-injection).

@@ -56,6 +56,7 @@ We are interested in any vulnerability that could negatively affect the security
 
 ## Out-of-scope Properties
 * \*.dev.uber.com
+* \*.dev.uberinternal.com
 * \*.et.uber.com - The underlying software here is exacttarget which Uber does not have control over.
 * uber-finder.com - this is not software owned by Uber Engineering.
 

@@ -95,8 +95,8 @@ N.B: the amounts listed here are the maximum we can pay for these categories of 
 ## Reporting Guidelines
 We need detailed written steps to reproduce. We do not accept reports that include only a video.
 
-## GitHub repo
-This page is hosted in a [GitHub repo](https://github.com/uber/Bug-Bounty-Page). Check the repo for any recent rule changes.
+## Policy Changes
+You can view the changes to this policy over time at [hackerone.com/uber/policy_versions](https://hackerone.com/uber/policy_versions).
 
 ## Fraud issues
 If you’d like to report an issue related to fraud, please contact ext-uber-fraud@uber.com. These type of issues are important but we unfortunately cannot reward issues if this type at this time. Specifically promo code fraud and give-get fraud is abuse of our promotional offers and referral codes in order to get free rides from Uber are a common submission. We do not consider these in scope for our bug bounty program at this time unless they show an explicit technical vulnerability in our software.  Lack of verification for things such as phone numbers, credit cards, etc are all fraud related issues and are not in scope for this bug bounty program.

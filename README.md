@@ -15,14 +15,53 @@ We are interested in any vulnerability that could negatively affect the security
 * Local File Disclosure (LFD)
 
 ## In-Scope Properties
-* \*.uber.com
+* api.uber.com
+* bonjour.uber.com
+* business.uber.com
+* cn-cfe1.uber.com
+* cn-dc1.uber.com
+* cn-dc2.uber.com
+* cn-dc3.uber.com
+* cn-dca1.uber.com
+* cn-geo1.uber.com
+* cn-pek1.uber.com
+* cn-pr.uber.com
+* cn-sjc1.uber.com
+* cn-slow1.uber.com
+* cn-slow2.uber.com
+* cn-slow3.uber.com
+* cn-spdy.uber.com
+* cn-tt1.uber.com
+* cn.uber.com
+* cn1.uber.com
+* cnfrontend-dca1.uber.com
+* cnfrontend-sjc1.uber.com
+* cnfrontend.uber.com
+* csp.uber.com
+* developer.uber.com
+* eats.uber.com
+* get.uber.com
+* getrush.uber.com
+* help.uber.com
+* login.uber.com
+* m.uber.com
+* partners.uber.com
+* petition.uber.org
+* riders.uber.com
+* rush.uber.com
+* sftp.uber.com
+* sms.uber.com
+* track.uber.com
+* trip.uber.com
+* ubereats.com
+* ubermovement.com
 * \*.uberinternal.com
-* http://petition.uber.org
-* http://ubermovement.com
-* iPhone Rider Application
-* iPhone Partner Application
-* Android Rider Application
-* Android Partner Application
+* ubermovement.com
+* vault.uber.com
+* www.uber.com
+* Android/iPhone Partner App
+* Android/iPhone Rider App
+* Android/iPhone Eats App
 
 ## Out-of-scope Vulnerability Classes
 * Open redirects. 99% of open redirects have low security impact. For the rare cases where the impact is higher, e.g., stealing oauth tokens, we do still want to hear about them.
@@ -56,6 +95,8 @@ We are interested in any vulnerability that could negatively affect the security
 * Entering the Uber offices, throwing crisps everywhere, unleashing a bunch of hungry racoons, and hijacking an abandoned terminal on an unlocked workstation while staff are distracted.
 
 ## Out-of-scope Properties
+* uber.onelogin.com
+  * OneLogin runs their own bug bounty program and any vulnerabilities for OneLogin should be reported to them.
 * \*.dev.uber.com
 * \*.dev.uberinternal.com
 * \*.et.uber.com - The underlying software here is exacttarget which Uber does not have control over.

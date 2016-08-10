@@ -56,7 +56,6 @@ We are interested in any vulnerability that could negatively affect the security
 * ubereats.com
 * ubermovement.com
 * \*.uberinternal.com
-* ubermovement.com
 * vault.uber.com
 * www.uber.com
 * Android/iPhone Partner App

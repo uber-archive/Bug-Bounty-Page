@@ -107,7 +107,7 @@ Our rewards are impact-based. This means, for example, that we will issue a rela
 
 If we receive several reports for the same issue, we offer the bounty to the earliest report for which we had enough actionable information to identify the issue. We don't want to encourage people spamming us with vague issues in an attempt to be first.
 
-If a single fix fixes multiple vulnerabilities, we treat this as a single vulnerability.  For example, if you find 3 vulnerabilties in a WordPress plugin we use, and our fix is to remove the plugin, this will receive a single bounty, determined, as always, by impact.
+If a single fix fixes multiple vulnerabilities, we treat this as a single vulnerability.  For example, if you find 3 vulnerabilities in a WordPress plugin we use, and our fix is to remove the plugin, this will receive a single bounty, determined, as always, by impact.
 
 The payout ranges on this page are guidelines to express roughly how we think about the severity of classes of issues. They are not exact rules. There can be attributes of bugs that make them more or less severe, which will affect the payout. For example, if a vulnerability affects only a small population of users, it will likely receive a lower reward than a similar vulnerability that affects a larger population of users. To date, we have most commonly rewarded on the top end of our published payout ranges.
 

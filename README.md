@@ -98,6 +98,7 @@ We are interested in any vulnerability that could negatively affect the security
   * OneLogin runs their own bug bounty program and any vulnerabilities for OneLogin should be reported to them.
 * \*.dev.uber.com
 * \*.dev.uberinternal.com
+* brand.uberinternal.com
 * \*.et.uber.com - The underlying software here is exacttarget which Uber does not have control over.
 * uber-finder.com - this is not software owned by Uber Engineering.
 

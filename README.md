@@ -39,6 +39,7 @@ We are interested in any vulnerability that could negatively affect the security
 * cnfrontend.uber.com
 * csp.uber.com
 * developer.uber.com
+* dial.uber.com
 * eats.uber.com
 * get.uber.com
 * getrush.uber.com

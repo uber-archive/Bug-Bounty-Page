@@ -45,6 +45,7 @@ We are interested in any vulnerability that could negatively affect the security
 * getrush.uber.com
 * help.uber.com
 * login.uber.com
+* lert.uber.com
 * m.uber.com
 * partners.uber.com
 * petition.uber.org

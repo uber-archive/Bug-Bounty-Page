@@ -1,3 +1,5 @@
+(This project is deprecated and not maintained.)
+
 # Scope
 
 We are interested in any vulnerability that could negatively affect the security of our users.
